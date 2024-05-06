@@ -4,6 +4,8 @@ Numa is a powerful desktop document style text editor designed for universal doc
 
 ## Visuals
 
+![Demo of Numa](visuals/visual-2.gif "Numa Demo Usage")
+<img src="Resources/Numa.png" width="400" alt="Numa Icon">
 
 ## Installation
 
