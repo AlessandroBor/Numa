@@ -1,6 +1,6 @@
 # Numa 
 
-Numa is a powerful desktop document style text editor designed for universal document editing. It supports custom project files, making it an ideal choice for managing complex documentation projects. With features tailored for efficiency and flexibility, Numa helps you manage your text editing tasks effortlessly.
+Numa is a lightweight desktop document-style text editor designed for universal editing. . It supports custom project files, enabling freedom beyond plain text. AKA my first project. 😅
 
 ## Visuals
 
