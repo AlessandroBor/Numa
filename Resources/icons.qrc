@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>open-icon.svg</file>
+        <file>save-icon.svg</file>
+        <file>underline-icon.svg</file>
+        <file>textcolor-icon.svg</file>
+        <file>highlight-icon.svg</file>
+        <file>italic-icon.svg</file>
+        <file>bold-icon.svg</file>
+        <file>open.svg</file>
+        <file>colorWheelIcon.svg</file>
+    </qresource>
+</RCC>
